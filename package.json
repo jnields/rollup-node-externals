@@ -1,0 +1,27 @@
+{
+  "name": "rollup-node-externals",
+  "version": "0.0.1-1",
+  "description": "module to automatically mark node_modules as externals for rollup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnields/rollup-node-externals.git"
+  },
+  "keywords": [
+    "rollup",
+    "node",
+    "node_modules",
+    "external",
+    "bundle",
+    "externals"
+  ],
+  "author": "Joseph Nields <jnields+npm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnields/rollup-node-externals/issues"
+  },
+  "homepage": "https://github.com/jnields/rollup-node-externals#readme"
+}
